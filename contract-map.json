@@ -1,4 +1,4 @@
-{ 
+{
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
@@ -1557,6 +1557,13 @@
     "logo": "fetch.png",
     "erc20": true,
     "symbol": "FET",
+    "decimals": 18
+  },
+  "0xb4efd85c19999d84251304bda99e90b92300bd93": {
+    "name": "Rocket Pool",
+    "logo": "rpl.png",
+    "erc20": true,
+    "symbol": "RPL",
     "decimals": 18
   },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
